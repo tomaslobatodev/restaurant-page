@@ -11,6 +11,7 @@ body {
     border-right: 1px solid black;
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
 
 nav {
