@@ -1,7 +1,6 @@
 # restaurant-page
 
-To Do: 
-- Page navigation
+To Do:
 - Menu page
 - Contact page
 - Better styling
